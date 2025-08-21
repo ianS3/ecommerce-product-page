@@ -9,7 +9,7 @@ const product = {
   description: 'A comprehensive guide to mastering efficient software development workflows, including version control, GitHub, build images, and RESTful API design. Learn best practices for modern software engineering.',
   price: 36.69,
   currency: '$',
-  stock: 369,
+  stock: 3669,
 };
 
 // Component for displaying the product image
