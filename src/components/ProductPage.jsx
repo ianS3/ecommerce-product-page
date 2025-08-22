@@ -5,9 +5,9 @@ import React, { useState } from 'react'; // Import useState hook
 const product = {
   id: 'book-101',
   imageUrl: 'https://placehold.co/400x500/E0F2F7/2C3E50?text=Book+Cover', // Placeholder image URL
-  title: 'The Great Software Workflow Guide',
+  title: 'Great SW Workflow Guide',
   description: 'A comprehensive guide to mastering efficient software development workflows, including version control, GitHub, build images, and RESTful API design. Learn best practices for modern software engineering.',
-  price: 36.69,
+  price: 996.69,
   currency: '$',
   stock: 3669,
 };
